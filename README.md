@@ -17,7 +17,7 @@ Pour cela, l’argent immobilier vous donne des informations sur un échantillon
 *	'__Prix__' : Le prix avec lequel la maison s’est vendue
 *	'__Adresse__' : Adresse de la maison.
 
-# Objectif : Appliquer la technique d'apprentissage supervisé par régression linéaire pour prédire le prix d'une nouvelle maison dont on dispose de ces caractériques.
+## Objectif : Appliquer la technique d'apprentissage supervisé par régression linéaire pour prédire le prix d'une nouvelle maison dont on dispose de ces caractériques.
 
 Pour y arriver, voici les étapes effectuées pour mettre en place ce modèle de régresion:
 ## Etape 1: Une analyse Statistique des données comprenant 
@@ -48,4 +48,4 @@ Pour y arriver, voici les étapes effectuées pour mettre en place ce modèle de
 ### Vous pouvez trouver tous les détails de ces étapes expliquées clairement dans le notebok python **Regression_Lineaire**.
 
 
-# TRES BONNE LECTURE
+# TRES BONNE LECTURE !!!
