@@ -48,4 +48,4 @@ Pour y arriver, voici les étapes effectuées pour mettre en place ce modèle de
 ### Vous pouvez trouver tous les détails de ces étapes expliquées clairement dans le notebok python **Regression_Lineaire**.
 
 
-#### <center> TRES BONNE LECTURE !!! </center>
+### <center> TRES BONNE LECTURE !!! </center>
